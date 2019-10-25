@@ -6,6 +6,10 @@ Animate your custom status
 
 ---
 
+# Requirements
+- [[NodeJS](https://nodejs.org/en/)]
+- [Basic JSON knowledge](https://www.json.org/)
+
 # Installation
 1. Download repository
 2. Unzip
