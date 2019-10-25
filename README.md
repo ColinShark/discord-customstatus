@@ -7,7 +7,7 @@ Animate your custom status
 ---
 
 # Requirements
-- [[NodeJS](https://nodejs.org/en/)]
+- [NodeJS](https://nodejs.org/en/)
 - [Basic JSON knowledge](https://www.json.org/)
 
 # Installation
