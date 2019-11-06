@@ -22,7 +22,7 @@ Animate your custom status
 - token `String`: Enter your secret discord token **NEVER SHARE THIS WITH ANYONE** - [How to get your token](#how-to-get-your-token)
 - animation `Array`:
 	- text `String`: Text to display as custom status
-	- emojiID `String|null`: Emoji ID of the emoji you want to display or `null` for nothing
+	- emojiID `String|null`: Emoji ID of the emoji you want to display or `null` for nothing - [How to get your emojiID](#how-to-get-your-emojiid)
 	- emojiName `String|null`: Emoji name of the emoji you want to display or `null` for nothing
 	- timeout `Number`: Amount in **milliseconds** how long to wait before continuing to the next one
 
@@ -33,3 +33,6 @@ var req=webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);f
 ```
 
 It should now output your token which will look like random letters and numbers, etc. That is your token, put the **whole** thing as your token.
+
+# How to get your EmojiID
+![](https://i.imgur.com/9tcBSZV.gif)
